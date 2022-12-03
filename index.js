@@ -13,7 +13,6 @@ import MessageRoute from './Routes/MessageRoute.js'
 
 // Routes
 const app = express()
-const server = httpServer.createServer(app)
 
 // to serve image for public
 
